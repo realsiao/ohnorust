@@ -58,4 +58,4 @@ fn main() {
 
 ```
 
-In summary, Rust's functions and modules are key tools for organizing and controlling code, and they provide a clear way to organize code and control its visibility and accessibility. ￼￼￼
+In summary, Rust's functions and modules are key tools for organizing and controlling code, and they provide a clear way to organize code and control its visibility and accessibility. 
